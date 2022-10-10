@@ -17,7 +17,6 @@
 
 
 - 푼 문제
-  - 커밋(업로드) 한다.
   - README 표에 :heavy_check_mark: 표시 하고 이모지에 본인 풀이 링크 달 것.
 
 - 못 푼 문제
@@ -36,8 +35,8 @@
 
 ## 구현
 
-| 문제                                                         | GonoBae                     | Sandor                     |
-| :----------------------------------------------------------- | ------------------------ | ------------------------ |
-| [프로그래머스 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [:heavy_multiplication_x:]() | [:heavy_multiplication_x:]()|
-| [프로그래머스 - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [:heavy_multiplication_x:]() | [:heavy_multiplication_x:]() |
+| 문제                                     | GonoBae                     | Sandor                     |
+| :--------------------------------------- | --------------------------- | -------------------------- |
+| [프로그래머스 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_KeyPad.cpp) | [:heavy_multiplication_x:]()|
+| [프로그래머스 - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_ReportResult.cpp) | [:heavy_multiplication_x:]() |
 
