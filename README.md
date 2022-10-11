@@ -19,7 +19,7 @@
 
 - 못 푼 문제
   - README 표에 :question: 표시
-  - 다른 사람의 코드를 참고하여 풀었을 경우, 해당 풀이를 블로그에 작성하고 링크 달 것.
+  - 다른 사람의 코드를 참고하여 풀었을 경우, 해당 풀이를 블로그에 작성하고 이모지에 링크 달 것.
 
 
 
@@ -38,5 +38,5 @@
 | :--------------------------------------- | --------------------------- | -------------------------- |
 | [프로그래머스 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_KeyPad.cpp) | :heavy_multiplication_x: |
 | [프로그래머스 - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_ReportResult.cpp) | :heavy_multiplication_x: |
-| [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-11-Level1_NewIDRecommand.cpp) | :heavy_multiplication_x: |
 
