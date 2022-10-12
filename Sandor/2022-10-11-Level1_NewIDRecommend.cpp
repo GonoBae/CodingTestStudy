@@ -1,3 +1,4 @@
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -106,4 +107,19 @@ string solution(string new_id)
         answer += temp[i];
     }
     return answer;
+}
+
+
+int main()
+{
+    string st = "...!@BaT#*..y.abcdefghijklm";
+
+    st = solution(st);
+
+    for (int i = 0; i < st.size(); i++)
+    {
+        cout << st[i];
+    }
+
+    return 0;
 }

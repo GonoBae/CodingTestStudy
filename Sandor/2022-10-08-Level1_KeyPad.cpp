@@ -1,3 +1,4 @@
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -71,4 +72,22 @@ string solution(vector<int> numbers, string hand)
     }
 
     return answer;
+}
+
+int main()
+{
+    vector<int> numbers;
+    string hand = "left";
+
+    for (int i = 0; i < 11; i++)
+    {
+        int temp;
+        cin >> temp;
+        numbers.push_back(temp);
+    }
+
+    string z = solution(numbers, hand);
+    cout << z;
+
+    return 0;
 }

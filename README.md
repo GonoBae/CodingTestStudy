@@ -43,4 +43,4 @@
 ## Level 2
 | 문제                                     | GonoBae                     | Sandor                     |
 | :--------------------------------------- | --------------------------- | -------------------------- |
-| [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-12-Level2_Carpet.cpp) | :heavy_multiplication_x: |
+| [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-12-Level2_Carpet.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-12-Level2_Carpet.cpp) |
