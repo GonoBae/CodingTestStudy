@@ -9,14 +9,13 @@ vector<int> solution(int brown, int yellow) {
     vector<int> answer;
     vector<int> tmp;
     int total = brown + yellow;
+    // 약수 찾기
     for(int i = 1; i <= total; ++i) {
         if(total % i == 0) {
             tmp.push_back(i);
         }
     }
-    for(int i = 0; i < tmp.size(); ++i) {
-
-    }
+    // 약수로 얻은 값을 토대로 파라미터와 비교
     int tmpSize = tmp.size();
     if(tmpSize % 2 == 0) {
         for(int i = 0; i < tmp.size() / 2; ++i) {
