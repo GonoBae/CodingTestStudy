@@ -8,11 +8,11 @@ vector<int> solution(int brown, int yellow)
 {
     vector<int> answer;
 
-    // �ּ� ī���� ũ��� 3x3
+    // 최소 카펫의 크기는 3x3
     int min = 3;
     int sum = brown + yellow;
 
-    // sum�� ī���� ũ�Ⱑ ���� �� ã�� 
+    // sum과 카펫의 크기가 같은 것 찾기 
     for (int row = min; row <= sum / min; row++)
     {
         for (int column = min; column <= row; column++)
