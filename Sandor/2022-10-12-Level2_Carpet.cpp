@@ -29,6 +29,7 @@ vector<int> solution(int brown, int yellow)
 
     return answer;
 }
+
 int main()
 {
     vector<int> answer;
