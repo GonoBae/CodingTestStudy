@@ -39,7 +39,7 @@
 | [프로그래머스 - 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_KeyPad.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-08-Level1_KeyPad.cpp) |
 | [프로그래머스 - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_ReportResult.cpp) | :question: |
 | [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-11-Level1_NewIDRecommand.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-11-Level1_NewIDRecommend.cpp) |
-| [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-14-Level1_MinimumRectangle.cpp) | :heavy_multiplication_x: |
+| [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-14-Level1_MinimumRectangle.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-14-Level1_MinimumRectangle.cpp) |
 
 ## Level 2
 | 문제                                     | GonoBae                     | Sandor                     |
