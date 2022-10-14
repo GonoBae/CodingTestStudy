@@ -15,7 +15,7 @@ vector<int> solution(vector<int> prices)
         {
             time++;
 
-            // ���� ���� 'i'�� ���� ���ݵ�'j' ��
+            // 현재 가격 'i'와 다음 가격들'j' 비교
             if (prices[i] > prices[j])
             {
                 break;
