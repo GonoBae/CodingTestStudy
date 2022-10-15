@@ -46,3 +46,4 @@
 | :--------------------------------------- | --------------------------- | -------------------------- |
 | [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-12-Level2_Carpet.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-12-Level2_Carpet.cpp) |
 | [프로그래머스 - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-13-Level2_StockPrice.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-13-Level2_StockPrice.cpp) |
+| [프로그래머스 - 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | :heavy_multiplication_x: | :heavy_multiplication_x: |
