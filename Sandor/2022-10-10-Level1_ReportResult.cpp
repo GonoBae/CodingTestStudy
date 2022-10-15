@@ -12,10 +12,10 @@ vector<int> solution(vector<string> id_list, vector<string> report, int k)
     unordered_map<string, unordered_set<string>> reportMap;
     unordered_map<string, unordered_set<string>> resultMap;
 
-    // �Ű� �Ǽ� ��ŭ �ݺ�
+    // 신고 건수 만큼 반복
     for (int i = 0; i < report.size(); i++)
     {
-        // ���� ã��
+        // 공백 찾기
         int splitIdx = 0;
         for (int j = 0; j < report[i].size(); j++)
         {
@@ -25,18 +25,18 @@ vector<int> solution(vector<string> id_list, vector<string> report, int k)
             }
         }
 
-        // �Ű��ڿ� ��� �и�
+        // 신고자와 대상 분리
         string reporter = "";
         string reported = "";
         for (int j = 0; j < splitIdx; j++) { reporter += report[i][j]; }
         for (int j = splitIdx + 1; j < report[i].size(); j++) { reported += report[i][j]; }
 
-        // �Ű� map ä���
+        // 신고 map 채우기
         reportMap[reporter].insert(reported);
         resultMap[reported].insert(reporter);
     }
 
-    // �Ű� ��� ī��Ʈ
+    // 신고 결과 카운트
     for (int i = 0; i < id_list.size(); i++)
     {
         auto it = reportMap.find(id_list[i]);
@@ -60,7 +60,7 @@ int main()
     int k = 2;
 
     vector<int> result = solution(id_list, report, k);
-    for (int i = 0; i < result.size(); i++) 
+    for (int i = 0; i < result.size(); i++)
     {
         cout << result[i] << '\n';
     }
