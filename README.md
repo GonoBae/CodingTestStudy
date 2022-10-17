@@ -56,4 +56,4 @@
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
-|2022.10.17| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS) |
+|2022.10.17| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) |

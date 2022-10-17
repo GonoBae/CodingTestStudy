@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// �Է� ���� : ���� ��(n), ���� ��(m), ���� ����(v)
+// 입력값: 정점의 수(n), 간선의 수(m), 시작 점(v)
 int n, m, v;
 vector<int> graph[MAX];
 bool visited[MAX];
