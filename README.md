@@ -40,7 +40,7 @@
 |2022.10.10| [프로그래머스 - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-10-Level1_ReportResult.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-10-Level1_ReportResult.cpp) |
 |2022.10.11| [프로그래머스 - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-11-Level1_NewIDRecommand.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-11-Level1_NewIDRecommend.cpp) |
 |2022.10.14| [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/2022-10-14-Level1_MinimumRectangle.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-14-Level1_MinimumRectangle.cpp) |
-|2022.10.17| [프로그래머스 - 크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.17| [프로그래머스 - 크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=cpp) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-Level1_ClawCraneGame.cpp) |
 
 ## Level 2
 
