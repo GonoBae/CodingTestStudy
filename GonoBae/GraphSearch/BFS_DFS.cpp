@@ -18,7 +18,7 @@ bool visited[MAX];
 // BFS
 void BFS(int node) {
     queue<int> Q;
-    bool qVisited[MAX];
+    bool qVisited[MAX] = { false };
     Q.push(node);
     qVisited[node] = true;
     while(!Q.empty()) {
