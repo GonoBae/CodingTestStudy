@@ -49,7 +49,7 @@
 |2022.10.12| [프로그래머스 - 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-12-Level2_Carpet.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-12-Level2_Carpet.cpp) |
 |2022.10.13| [프로그래머스 - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-13-Level2_StockPrice.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-13-Level2_StockPrice.cpp) |
 |2022.10.15| [프로그래머스 - 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-15-Level2_JumpAndTeleportation.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-15-Level2_JumpAndTeleportation.cpp) |
-|2022.10.18| [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-18-Level2_ShortestDist.cpp) | :heavy_multiplication_x: |
+|2022.10.18| [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-18-Level2_ShortestDist.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-18-Level2_ShortestDist.cpp) |
 
 # BAEKJOON
 
@@ -62,4 +62,4 @@
 ## 다이나믹 프로그래밍
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
-|2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | :heavy_multiplication_x: |
+|2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) |
