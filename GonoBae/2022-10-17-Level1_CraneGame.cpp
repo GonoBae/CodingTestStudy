@@ -9,17 +9,19 @@ int solution(vector<vector<int>> board, vector<int> moves) {
     int answer = 0;
     stack<int> S;
     for(int i = 0; i < moves.size(); ++i) {
-        int n = moves[i];
+        int move = moves[i];
         for(int j = 0; j < board.size(); ++j) {
-            int doll = board[j][n - 1];
+            int doll = board[j][move - 1];
+            // 빈공간
             if(doll == 0) continue;
+            // 중복인형 사라지기
             if(!S.empty() && doll == S.top()) {
                 S.pop();
                 answer += 2;
             }
             else S.push(doll);
-
-            board[j][n - 1] = 0;
+            // 인형 -> 빈공간 바꿔주기
+            board[j][move - 1] = 0;
             break;
         }
     }
