@@ -50,6 +50,8 @@
 |2022.10.13| [프로그래머스 - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-13-Level2_StockPrice.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-13-Level2_StockPrice.cpp) |
 |2022.10.15| [프로그래머스 - 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-15-Level2_JumpAndTeleportation.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-15-Level2_JumpAndTeleportation.cpp) |
 |2022.10.18| [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-18-Level2_ShortestDist.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-Level2_ShortestDist.cpp) |
+|2022.10.19| [프로그래머스 - 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.19| [프로그래머스 - 3 X n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 # BAEKJOON
 
