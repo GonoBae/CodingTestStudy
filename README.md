@@ -19,8 +19,10 @@
 
 - 못 푼 문제
   - README 표에 :question: 표시
-  - 다른 사람의 코드를 참고하여 풀었을 경우, 해당 풀이를 블로그에 작성하고 이모지에 링크 달 것.
 
+- 다시 볼 문제
+  - README 표에 :pencil: 표시
+  - 다른 사람의 코드를 참고하여 풀었을 경우, 주석 꼼꼼하게 달고 링크달 것.
 
 
 ## 사용 이모지
@@ -51,7 +53,7 @@
 |2022.10.15| [프로그래머스 - 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-15-Level2_JumpAndTeleportation.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-15-Level2_JumpAndTeleportation.cpp) |
 |2022.10.18| [프로그래머스 - 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-18-Level2_ShortestDist.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-Level2_ShortestDist.cpp) |
 |2022.10.19| [프로그래머스 - 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-19-Level2_Camouflage.cpp) | :heavy_multiplication_x: |
-|2022.10.19| [프로그래머스 - 3 X n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-19-Level2_3XnTiling.cpp) | :heavy_multiplication_x: |
+|2022.10.19| [프로그래머스 - 3 X n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-19-Level2_3XnTiling.cpp) | :heavy_multiplication_x: |
 
 # BAEKJOON
 
