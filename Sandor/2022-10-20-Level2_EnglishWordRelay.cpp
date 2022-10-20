@@ -27,8 +27,8 @@ vector<int> solution(int n, vector<string> words)
             lastAlpha = words[i - 1][lastSize];
         }
 
-        // 1. Áßº¹µÈ Å°°¡ ÀÖ´ÂÁö °Ë»ç (¾øÀ¸¸é data¿¡ ÇØ´ç ´Ü¾î ÀúÀå)
-        // 2. ½ÃÀÛ ¾ËÆÄºªÀÌ ÀÌÀü ´Ü¾îÀÇ ¸¶Áö¸· ¾ËÆÄºª°ú °°ÀºÁö °Ë»ç 
+        // 1. ì¤‘ë³µëœ í‚¤ê°€ ìˆëŠ”ì§€ ê²€ì‚¬ (ì—†ìœ¼ë©´ dataì— í•´ë‹¹ ë‹¨ì–´ ì €ì¥)
+        // 2. ì‹œì‘ ì•ŒíŒŒë²³ì´ ì´ì „ ë‹¨ì–´ì˜ ë§ˆì§€ë§‰ ì•ŒíŒŒë²³ê³¼ ê°™ì€ì§€ ê²€ì‚¬ 
         if (data.find(words[i]) == data.end() && (lastAlpha == startAlpha) || i == 0)
         {
             data.insert(words[i]);
@@ -41,7 +41,7 @@ vector<int> solution(int n, vector<string> words)
         }
     }
 
-    // ¾Æ¹«µµ Æ²¸®Áö ¾Ê¾ÒÀ»¶§
+    // ì•„ë¬´ë„ í‹€ë¦¬ì§€ ì•Šì•˜ì„ë•Œ
     answer.clear();
     answer.push_back(0);
     answer.push_back(0);
