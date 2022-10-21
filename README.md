@@ -55,7 +55,7 @@
 |2022.10.19| [프로그래머스 - 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-19-Level2_Camouflage.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-19-Level2_Camouflage.cpp) |
 |2022.10.19| [프로그래머스 - 3 X n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-19-Level2_3XnTiling.cpp) | :question: |
 |2022.10.20| [프로그래머스 - 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-20-Level2_EnglishWordRelay.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-20-Level2_EnglishWordRelay.cpp)  |
-|2022.10.21| [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | :heavy_multiplication_x: | :heavy_multiplication_x:  |
+|2022.10.21| [프로그래머스 - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-21-Level2_FatigueLevel.cpp)  |
 |2022.10.21| [프로그래머스 - 다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | :heavy_multiplication_x: | :heavy_multiplication_x:  |
 
 
