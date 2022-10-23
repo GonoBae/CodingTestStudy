@@ -29,6 +29,7 @@
 
 - 아직 안 푼 문제 : :heavy_multiplication_x:
 - 모르는 문제 : :question:
+- 다시 볼 문제 : :pencil:
 - 푼 문제 : :heavy_check_mark:
 
 
