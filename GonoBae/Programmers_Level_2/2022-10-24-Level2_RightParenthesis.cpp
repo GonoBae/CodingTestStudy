@@ -39,3 +39,10 @@ bool solution2(string s)
     if(!S.empty()) answer = false;
     return answer;
 }
+
+int main() {
+    string s = "(())()((()))";
+    bool result = solution2(s);
+    cout << result;
+    return 0;
+}
