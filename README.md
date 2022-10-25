@@ -63,6 +63,10 @@
 |2022.10.24| [프로그래머스 - JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-24-Level2_JadenCase.cpp) | :heavy_multiplication_x: |
 |2022.10.24| [프로그래머스 - 올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-24-Level2_RightParenthesis.cpp) | :heavy_multiplication_x: |
 |2022.10.24| [프로그래머스 - 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-24-Level2_BinaryConvertion.cpp) | :heavy_multiplication_x: |
+|2022.10.25| [프로그래머스 - 최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.25| [프로그래머스 - 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.25| [프로그래머스 - 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.25| [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 
 # BAEKJOON
