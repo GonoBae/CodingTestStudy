@@ -77,9 +77,9 @@
 |2022.10.25| [프로그래머스 - 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_NumExpression.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_NumExpression.cpp) |
 |2022.10.25| [프로그래머스 - 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_Fibonacci.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_Fibonacci.cpp) |
 |2022.10.25| [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_NextBigNum.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_NextBigNum.cpp) |
-|2022.10.26| [프로그래머스 - 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.26| [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.26| [프로그래머스 - N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.26| [프로그래머스 - 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-26-Level2_DoubleDelete.cpp) | :heavy_multiplication_x: |
+|2022.10.26| [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-26-Level2_Boat.cpp) | :heavy_multiplication_x: |
+|2022.10.26| [프로그래머스 - N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-26-Level2_LCM.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
