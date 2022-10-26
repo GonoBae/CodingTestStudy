@@ -1,31 +1,29 @@
-# CodingTestStudy (~ing)
+# **CodingTestStudy (~ing)**
 
-## 목표
+## **목표**
 
 - 코딩테스트 대비
 
 
-## 계획
-- Level 1
+## **계획**
+- ~~**Level 1**~~
 - Level 2
+- Level 3
 
 
-## 규칙
-
-- 매일 한 문제씩 풀기
+## **규칙**
+- 매일 <span style='color: black; background-color: #fff5b1'>한 문제 이상</span> 풀기 (일요일 제외)
 - 수요일 + 일요일 코드리뷰
 - 푼 문제
-  - README 표에 :heavy_check_mark: 표시 하고 이모지에 본인 풀이 링크 달 것.
-
+  - README 표에 :heavy_check_mark: 표시 하고 이모지에 <u>본인 풀이 링크 달 것.</u>
 - 못 푼 문제
   - README 표에 :question: 표시
-
 - 다시 볼 문제
   - README 표에 :pencil: 표시
-  - 다른 사람의 코드를 참고하여 풀었을 경우, 주석 꼼꼼하게 달고 링크달 것.
+  - 다른 사람의 코드를 참고하여 풀었을 경우, 주석 꼼꼼하게 달고 <u>본인 풀이 링크 달 것.</u>
+<br><br>
 
-
-## 사용 이모지
+## **사용 이모지**
 
 - 아직 안 푼 문제 : :heavy_multiplication_x:
 - 모르는 문제 : :question:
@@ -33,9 +31,13 @@
 - 푼 문제 : :heavy_check_mark:
 
 
-# Programmers
+# **Programmers**
 
-## Level 1 
+## **Level 1**
+
+<details>
+<summary> 여기를 눌러주세요. </summary>
+<div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
@@ -46,7 +48,15 @@
 |2022.10.17| [프로그래머스 - 크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2022-10-17-Level1_CraneGame.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-Level1_ClawCraneGame.cpp) |
 |2022.10.24| [프로그래머스 - 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2022-10-24-Level1_Coke.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-24-Level1_Coke.cpp) |
 
-## Level 2
+</div>
+</details>
+<br>
+
+## **Level 2**
+
+<details>
+<summary> 여기를 눌러주세요. </summary>
+<div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
@@ -67,17 +77,22 @@
 |2022.10.25| [프로그래머스 - 숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_NumExpression.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_NumExpression.cpp) |
 |2022.10.25| [프로그래머스 - 피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_Fibonacci.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_Fibonacci.cpp) |
 |2022.10.25| [프로그래머스 - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-25-Level2_NextBigNum.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-25-Level2_NextBigNum.cpp) |
+|2022.10.26| [프로그래머스 - 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.26| [프로그래머스 - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.26| [프로그래머스 - N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
-
+</div>
+</details>
+<br>
 # BAEKJOON
 
-## 그래프 탐색
+## **그래프 탐색**
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2022.10.17| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) |
 
-## 다이나믹 프로그래밍
+## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-2839_SugarDelivery.cpp) |
