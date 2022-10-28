@@ -83,9 +83,9 @@
 |2022.10.27| [프로그래머스 - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-27-Level2_LeagueSchedule.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-27-Level2_LeagueSchedule.cpp) |
 |2022.10.27| [프로그래머스 - 멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-27-Level2_LongJump.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-27-Level2_LongJump.cpp) |
 |2022.10.27| [프로그래머스 - [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-27-Level2_1Cache.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-27-Level2_1Cache.cpp) |
-|2022.10.28| [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.28| [프로그래머스 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.28| [프로그래머스 - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.28| [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_H-Index.cpp) | :heavy_multiplication_x: |
+|2022.10.28| [프로그래머스 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_ProcessionX.cpp) | :heavy_multiplication_x: |
+|2022.10.28| [프로그래머스 - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_ParenthesisRot.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
