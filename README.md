@@ -86,9 +86,9 @@
 |2022.10.28| [프로그래머스 - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_H-Index.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-28-Level2_H-Index.cpp) |
 |2022.10.28| [프로그래머스 - 행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_ProcessionX.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-28-Level2_ProcessionX.cpp) |
 |2022.10.28| [프로그래머스 - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-28-Level2_ParenthesisRot.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-28-Level2_ParenthesisRot.cpp) |
-|2022.10.29| [프로그래머스 - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.29| [프로그래머스 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2022.10.29| [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.29| [프로그래머스 - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_Tuple.cpp) | :heavy_multiplication_x: |
+|2022.10.29| [프로그래머스 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_N2ArrayCut.cpp) | :heavy_multiplication_x: |
+|2022.10.29| [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_TargetNumber.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
