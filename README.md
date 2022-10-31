@@ -89,6 +89,9 @@
 |2022.10.29| [프로그래머스 - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_Tuple.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-29-Level2_Tuple.cpp) |
 |2022.10.29| [프로그래머스 - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_N2ArrayCut.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-29-Level2_N2ArrayCut.cpp) |
 |2022.10.29| [프로그래머스 - 타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-10-29-Level2_TargetNumber.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-29-Level2_TargetNumber.cpp) |
+|2022.10.31| [프로그래머스 - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.31| [프로그래머스 - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.10.31| [프로그래머스 - [1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 </div>
 </details>
