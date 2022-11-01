@@ -36,7 +36,7 @@
 ## **Level 1**
 
 <details>
-<summary> 여기를 눌러주세요. </summary>
+<summary> 10월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
@@ -55,7 +55,7 @@
 ## **Level 2**
 
 <details>
-<summary> 여기를 눌러주세요. </summary>
+<summary> 2022년 10월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
@@ -96,6 +96,20 @@
 </div>
 </details>
 <br>
+
+<details>
+<summary> 2022년 11월 ~ing. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor |
+| :--- | :--- | :---: | :---: |
+|2022.11.01| [프로그래머스 - [1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.11.01| [프로그래머스 - 2Xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+</div>
+</details>
+<br>
+
 # BAEKJOON
 
 ## **그래프 탐색**
