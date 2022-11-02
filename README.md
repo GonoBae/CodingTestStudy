@@ -103,8 +103,8 @@
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--- | :--- | :---: | :---: |
-|2022.11.01| [프로그래머스 - [1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-01-Level2_FirstNews.cpp) | :heavy_multiplication_x: |
-|2022.11.01| [프로그래머스 - 2Xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-01-Level2_2xnTiling.cpp) | :heavy_multiplication_x: |
+|2022.11.01| [프로그래머스 - [1차]뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-01-Level2_FirstNews.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-01-Level2_FirstNews.cpp) |
+|2022.11.01| [프로그래머스 - 2Xn 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-01-Level2_2xnTiling.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-01-Level2_2xnTiling.cpp) |
 
 </div>
 </details>
