@@ -33,12 +33,12 @@ vector<int> solution(vector<int> fees, vector<string> records) {
     }
 
     // HM 에 value 값이 남아있는 경우는 출차를 하지 않은 경우
-    
     for(auto i = HM.begin(); i != HM.end(); ++i) {
         if(i->second != -1) {
             TotalM[i->first] += MAX_TIME - HM[i->first];
         }
     }
+    
     // 요금계산 => 기본요금(5000) + {(시간 - 기본시간) / 단위시간 * 추가요금}
     // 0 : 기본시간 , 1 : 기본요금 , 2 : 단위시간 , 3 : 추가요금
     int baseTime = fees[0], baseFee = fees[1], perTime = fees[2], alphaFee = fees[3];
