@@ -111,6 +111,8 @@
 |2022.11.04| [프로그래머스 - 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-04-Level2_ParkingFee.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-04-Level2_ParkingFee.cpp) |
 |2022.11.05| [프로그래머스 - 더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-05-Level2_MoreSpicy.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-05-Level2_MoreSpicy.cpp) |
 |2022.11.05| [프로그래머스 - 땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-05-Hopscotch.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-05-Level2_Hopscotch.cpp) |
+|2022.11.07| [프로그래머스 - K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-07-Level2_kCount.cpp) | :heavy_multiplication_x: |
+|2022.11.07| [프로그래머스 - 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-07-Level2_Triangle.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
