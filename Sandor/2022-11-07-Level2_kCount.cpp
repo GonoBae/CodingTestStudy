@@ -31,7 +31,7 @@ int solution(int n, int k)
     strNum += n + '0';
     reverse(strNum.begin(), strNum.end());
 
-    // 소수 탐색
+    // '0'을 기준으로 구분시키기 
     string primeNum;
     for (int i = 0; i < strNum.size(); ++i)
     {
