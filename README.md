@@ -114,7 +114,7 @@
 |2022.11.07| [프로그래머스 - K진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-07-Level2_kCount.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-07-Level2_kCount.cpp) |
 |2022.11.07| [프로그래머스 - 삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-07-Level2_Triangle.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-07-Level2_Triangle.cpp) |
 |2022.11.08| [프로그래머스 - [3차]압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-08-Level2_ThirdCompressed.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-08-Level2_ThirdCompressed.cpp) |
-|2022.11.09| [프로그래머스 - [3차]n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-09-Level2_ThirdnGame.cpp) | :heavy_multiplication_x: |
+|2022.11.09| [프로그래머스 - [3차]n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-09-Level2_ThirdnGame.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-09-Level2_ThirdnGame.cpp) |
 
 </div>
 </details>
