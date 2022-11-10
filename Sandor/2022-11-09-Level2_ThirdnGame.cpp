@@ -4,11 +4,6 @@
 
 using namespace std;
 
-#include <string>
-#include <vector>
-
-using namespace std;
-
 int myTurn(int cnt, int m)
 {
     return cnt % m;
