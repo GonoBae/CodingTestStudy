@@ -118,7 +118,7 @@
 |2022.11.10| [프로그래머스 - [3차]파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-10-Level2_ThirdFileName.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-10-Level2_ThirdFileName.cpp) |
 |2022.11.10| [프로그래머스 - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2022-11-10-Level2_VowelDic.cpp) | :question: |
 |2022.11.11| [프로그래머스 - 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-11-Level2_SumSubsequences.cpp) |
-|2022.11.11| [프로그래머스 - 2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2022.11.11| [프로그래머스 - 2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | :heavy_multiplication_x: | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-11-12-Level2_DiffTwoBit.cpp) |
 
 </div>
 </details>
