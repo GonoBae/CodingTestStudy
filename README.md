@@ -33,10 +33,23 @@
 
 # **Programmers**
 
+## **Level 0**
+<details>
+<summary> 2023년 1월 ~ing. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
+|2023.01.11| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+</div>
+</details>
+<br>
+
 ## **Level 1**
 
 <details>
-<summary> 10월 마감. </summary>
+<summary> 2022년 10월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
@@ -98,7 +111,7 @@
 <br>
 
 <details>
-<summary> 2022년 11월 ~ing. </summary>
+<summary> 2022년 11월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
