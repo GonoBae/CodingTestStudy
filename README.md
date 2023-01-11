@@ -41,7 +41,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
-|2023.01.11| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_0/AdditionOfFractions.cpp) | [:heavy_check_mark:] |
+|2023.01.11| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_0/AdditionOfFractions.cpp) | :heavy_check_mark: |
 
 </div>
 </details>
