@@ -41,8 +41,8 @@
 
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
-|2023.01.10| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_0/AdditionOfFractions.cpp) | :heavy_check_mark: |
-|2023.01.12| [프로그래머스 - 햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-12-Level1_Hamburg.cpp) | :heavy_multiplication_x: |
+|2023.01.10| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_0/AdditionOfFractions.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-13-Level0_AdditionOfFractions) |
+|2023.01.12| [프로그래머스 - 햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-12-Level1_Hamburg.cpp) | :pencil: |
 
 </div>
 </details>
