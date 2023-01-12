@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// ÃÖ´ë °ø¾à¼ö
+// ìµœëŒ€ ê³µì•½ìˆ˜
 int gcd(int a, int b)
 {
     if (b == 0) { return a; }
@@ -12,7 +12,7 @@ int gcd(int a, int b)
     return gcd(b, a % b);
 }
 
-// ÃÖ¼Ò °ø¹è¼ö
+// ìµœì†Œ ê³µë°°ìˆ˜
 int lcm(int a, int b)
 {
     return (a * b) / gcd(a, b);
@@ -22,12 +22,11 @@ vector<int> solution(int numer1, int denom1, int numer2, int denom2)
 {
     vector<int> answer;
 
-    // denomÀÇ °øÅë ºÐ¸ð ¸¸µé±â -> ÃÖ¼Ò °ø¹è¼ö
-    int denomRes = lcm(denom1, denom2);   // µÎ ºÐ¸ðÀÇ ÃÖ¼Ò °ø¹è¼ö
+      // denomì˜ ê³µí†µ ë¶„ëª¨ ë§Œë“¤ê¸° -> ìµœì†Œ ê³µë°°ìˆ˜
+    int denomRes = lcm(denom1, denom2);   // ë‘ ë¶„ëª¨ì˜ ìµœì†Œ ê³µë°°ìˆ˜
     int numerRes = numer1 * denomRes / denom1 + numer2 * denomRes / denom2;
 
-    // ±â¾à ºÐ¼ö : °¢°¢ ÃÖ´ë °ø¾à¼ö·Î ³ª´©±â (ÃÖ´ë °ø¾à¼ö°¡ 1º¸´Ù Ä¿¾ß ÇÔ)
-    int gcdRes = gcd(numerRes, denomRes);
+    // ê¸°ì•½ ë¶„ìˆ˜ : ê°ê° ìµœëŒ€ ê³µì•½ìˆ˜ë¡œ ë‚˜ëˆ„ê¸° (ìµœëŒ€ ê³µì•½ìˆ˜ê°€ 1ë³´ë‹¤ ì»¤ì•¼ í•¨)
     if (gcdRes > 1)
     {
         numerRes /= gcdRes;
