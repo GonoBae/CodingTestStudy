@@ -42,7 +42,6 @@
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2023.01.10| [프로그래머스 - 분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_0/AdditionOfFractions.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-10-Level0_AdditionOfFractions.cpp) |
-|2023.01.12| [프로그래머스 - 햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-12-Level1_Hamburg.cpp) | :pencil: |
 
 </div>
 </details>
@@ -62,6 +61,19 @@
 |2022.10.14| [프로그래머스 - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2022-10-14-Level1_MinimumRectangle.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-14-Level1_MinimumRectangle.cpp) |
 |2022.10.17| [프로그래머스 - 크레인 인형뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2022-10-17-Level1_CraneGame.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-Level1_ClawCraneGame.cpp) |
 |2022.10.24| [프로그래머스 - 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2022-10-24-Level1_Coke.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-24-Level1_Coke.cpp) |
+
+</div>
+</details>
+<br>
+
+<details>
+<summary> 2023년 1월 ~ing. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
+|2023.01.12| [프로그래머스 - 햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-12-Level1_Hamburg.cpp) | :pencil: |
+|2023.01.17| [프로그래머스 - 옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 </div>
 </details>
