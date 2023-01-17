@@ -18,12 +18,15 @@ int solution(vector<string> babbling)
 
         for (int j = 0; j < 4; ++j)
         {
-            // ã���� �ش� ������ string ����
+            // 찾으면 해당 범위의 string 제거
             auto it = temp.find(correctBabbling[j]);
 
+            // 공백이 되었거나 이전에 찾은 string의 첫 문자와 현재 가장 앞의 문자가 같으면 break
+            // 현재 가장 앞의 문자와 찾고자 하는 옹알이의 첫 문자 비교
             if (temp == "" || prevStr[0] == temp[0]) { break; }
             else if (temp[0] != correctBabbling[j][0]) { continue; }
 
+            // 찾으면 idx를 0으로 만들어 다시 탐색
             if (temp.find(correctBabbling[j]) != string::npos)
             {
                 temp.erase(it, it + babblingSize[j]);
