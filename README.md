@@ -74,7 +74,7 @@
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2023.01.12| [프로그래머스 - 햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-12-Level1_Hamburg.cpp) | :pencil: |
 |2023.01.17| [프로그래머스 - 옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-17-Level1_Babbling.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-17-Level1_Babbling.cpp) |
-|2023.01.26| [프로그래머스 - 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-26-Level1_Weapon.cpp) | :heavy_multiplication_x: |
+|2023.01.26| [프로그래머스 - 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-26-Level1_Weapon.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-26-Level1_Weapon.cpp) |
 
 
 </div>
