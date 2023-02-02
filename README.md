@@ -36,7 +36,7 @@
 
 ## **Level 0**
 <details>
-<summary> 2023년 1월 ~ing. </summary>
+<summary> 2023년 1월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
@@ -67,7 +67,7 @@
 <br>
 
 <details>
-<summary> 2023년 1월 ~ing. </summary>
+<summary> 2023년 1월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor |
@@ -76,6 +76,19 @@
 |2023.01.17| [프로그래머스 - 옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-17-Level1_Babbling.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-17-Level1_Babbling.cpp) |
 |2023.01.26| [프로그래머스 - 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-26-Level1_Weapon.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-26-Level1_Weapon.cpp) |
 |2023.01.31| [프로그래머스 - 문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-01-31-Level1_SplitString.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-01-31-Level1_SplitString.cpp) |
+
+
+</div>
+</details>
+<br>
+
+<details>
+<summary> 2023년 2월 ing~. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
+|2023.02.02| [프로그래머스 - 로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-02-Level1_LottoHighestLoewstRank.cpp) |
 
 
 </div>
