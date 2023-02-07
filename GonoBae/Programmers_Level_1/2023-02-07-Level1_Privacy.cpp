@@ -35,6 +35,8 @@ int findNum(string day, vector<string> terms) {
             return stoi(s) * 28 - 1;
         }
     }
+    // 예외처리 필요없어서 생략
+    return -1;
 }
 
 vector<int> solution(string today, vector<string> terms, vector<string> privacies) {
