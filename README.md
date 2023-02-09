@@ -83,14 +83,14 @@
 <br>
 
 <details>
-<summary> 2023년 2월 ing~. </summary>
+<summary> 2023년 2월 ~ing. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
 |2023.02.02| [프로그래머스 - 로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-02-02-Level1_Lotto.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-02-Level1_LottoHighestLoewstRank.cpp) |
 |2023.02.07| [프로그래머스 - 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_1/2023-02-07-Level1_Privacy.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-07-Level1_Privacy.cpp) |
-|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
 
 
 </div>
@@ -168,6 +168,21 @@
 </div>
 </details>
 <br>
+
+
+<details>
+<summary> 2023년 2월 ~ing. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
+|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+
+</div>
+</details>
+<br>
+
+
 
 # BAEKJOON
 
