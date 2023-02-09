@@ -176,7 +176,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
-|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-09-Level2_TheBiggestNum.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 </div>
 </details>
@@ -185,6 +185,10 @@
 
 
 # BAEKJOON
+
+<details>
+<summary> 접어두기 </summary>
+<div markdown="1">
 
 ## **그래프 탐색**
 
@@ -196,3 +200,7 @@
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-2839_SugarDelivery.cpp) |
+
+</div>
+</details>
+<br>
