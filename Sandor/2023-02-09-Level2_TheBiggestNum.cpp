@@ -43,7 +43,7 @@ string solution(vector<int> numbers)
         strNums.push_back(to_string(numbers[i]));
     }
 
-    // 내림차순(+ 예외 처리) 정렬
+    // 내림차순 정렬
     sort(strNums.begin(), strNums.end(), myCompare);
 
     // answer에 순서대로 합하기
