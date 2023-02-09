@@ -176,7 +176,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
-|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-09-Level2_TheBiggestNum.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-09-Level2_TheBiggestNum.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-09-Level2_TheBiggestNum.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
