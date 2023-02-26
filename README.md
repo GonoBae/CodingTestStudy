@@ -176,8 +176,7 @@
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
 |2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-09-Level2_TheBiggestNum.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-09-Level2_TheBiggestNum.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-02-07-Level2_TheBiggestNum.cpp)|
-|2023.02.14| [프로그래머스 - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-14-Level2_MenuRenewal.cpp) | :question: |
-[:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-02-14-Level2_MenuRenewal.cpp)|
+|2023.02.14| [프로그래머스 - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-14-Level2_MenuRenewal.cpp) |:question:|[:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-02-14-Level2_MenuRenewal.cpp)|
 |2023.02.21| [프로그래머스 - 소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-02-21-Level2_FindPrimeNum.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-02-21-Level2_FindPrimeNum.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-02-21-Level2_FindPrimeNum.cpp) |
 
 </div>
