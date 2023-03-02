@@ -83,7 +83,7 @@
 <br>
 
 <details>
-<summary> 2023년 2월 ~ing. </summary>
+<summary> 2023년 2월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
@@ -170,7 +170,7 @@
 
 
 <details>
-<summary> 2023년 2월 ~ing. </summary>
+<summary> 2023년 2월 마감. </summary>
 <div markdown="1">
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
@@ -185,6 +185,17 @@
 <br>
 
 
+<details>
+<summary> 2023년 3월 ~ing. </summary>
+<div markdown="1">
+
+| 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
+|2023.02.09| [프로그래머스 - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | :heavy_multiplication_x: | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-02-UnharmedSquare.cpp) | :heavy_multiplication_x:|
+
+</div>
+</details>
+<br>
 
 # BAEKJOON
 
