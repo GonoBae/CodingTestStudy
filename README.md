@@ -207,7 +207,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
-|2023.03.07| [설탕 배달](https://www.acmicpc.net/problem/2839) | :heavy_multiplication_x: | :heavy_multiplication_x: | [:heavy_check_mark:] https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-03-07-Grid_SugarDelivery.cpp |
+|2023.03.07| [설탕 배달](https://www.acmicpc.net/problem/2839) | :heavy_multiplication_x: | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/2023-03-07-Grid_SugarDelivery.cpp) |
 
 ## **그래프 탐색**
 
