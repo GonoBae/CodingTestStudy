@@ -191,7 +191,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
-|2023.02.09| [프로그래머스 - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-03-07-Level2_TheBiggestNum.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-02-UnharmedSquare.cpp) | :heavy_multiplication_x:|
+|2023.02.09| [프로그래머스 - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Programmers_Level_2/2023-03-07-Level2_Sqare.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-02-UnharmedSquare.cpp) | :heavy_multiplication_x:|
 
 </div>
 </details>
