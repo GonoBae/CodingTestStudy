@@ -203,6 +203,12 @@
 <summary> 접어두기 </summary>
 <div markdown="1">
 
+## **그리디**
+
+| 날짜 | 문제 | GonoBae | Sandor | kangwonkim |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: |
+|2023.03.07| [설탕 배달](https://www.acmicpc.net/problem/2839) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x:|
+
 ## **그래프 탐색**
 
 | 날짜 | 문제 | GonoBae | Sandor |
