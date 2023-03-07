@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+// DP
 int dp[5001];
 int DP(int num) {
     if(dp[num]) return dp[num];
@@ -20,6 +21,7 @@ int main() {
     return 0;
 }
 
+// Greedy
 int main1() {
     int n, x = 0, y = 0;
     cin >> n;
