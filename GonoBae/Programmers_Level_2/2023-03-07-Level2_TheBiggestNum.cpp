@@ -1,3 +1,4 @@
+#include<iostream>
 using namespace std;
 
 long long gcd(int a, int b) {
