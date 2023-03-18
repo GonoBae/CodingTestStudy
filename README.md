@@ -212,7 +212,7 @@
 |2023.03.11| [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-13-Level2_CardSort.cpp) | [:question:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-11-CardSorting.cpp) |  [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Grid/2023-03-13-CardSort.cpp) |
 |2023.03.14| [수 묶기](https://www.acmicpc.net/problem/1744) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-14-NumberBinding.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-14-NumberBinding.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Grid/2023-03-14-Gird-TieNums.cpp)  |
 |2023.03.16| [신입 사원](https://www.acmicpc.net/problem/1946) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-16-NewGuy.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.03.18| [병든 나이트](https://www.acmicpc.net/problem/1783) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.03.18| [병든 나이트](https://www.acmicpc.net/problem/1783) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-18-SickNight.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **그래프 탐색**
 
