@@ -214,8 +214,8 @@
 |2023.03.16| [신입 사원](https://www.acmicpc.net/problem/1946) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-16-NewGuy.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-16-NewGuy.cpp) | :heavy_multiplication_x: |
 |2023.03.18| [병든 나이트](https://www.acmicpc.net/problem/1783) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-18-SickNight.cpp) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-18-SickNight.cpp) | :heavy_multiplication_x: |
 |2023.03.21| [회의실 배정](https://www.acmicpc.net/problem/1931) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-21-MeetingRoom.cpp) | [:heavy_multiplication_x:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-21-MeetingRoom.cpp) | :heavy_multiplication_x: |
-|2023.03.23| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-Coin.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.03.23| [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-GameDongJun.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.03.23| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-Coin.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-Coin.cpp) | :heavy_multiplication_x: |
+|2023.03.23| [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-GameDongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-GameDongJun.cpp) | :heavy_multiplication_x: |
 
 ## **그래프 탐색**
 
