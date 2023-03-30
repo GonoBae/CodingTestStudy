@@ -216,7 +216,6 @@
 |2023.03.21| [회의실 배정](https://www.acmicpc.net/problem/1931) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-21-MeetingRoom.cpp) | [:heavy_multiplication_x:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-21-MeetingRoom.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.03.23| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-Coin.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-Coin.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.03.23| [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-GameDongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-GameDongJun.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.03.28| [1로 만들기](https://www.acmicpc.net/problem/1463) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2023-03-28-MakingOne.cpp) | :heavy_multiplication_x: |[:question:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Grid/2023-03-29-Gird-MakeOne.cpp) | :heavy_multiplication_x: |
 |2023.03.30| [주식](https://www.acmicpc.net/problem/11501) | :heavy_multiplication_x: | :heavy_multiplication_x: |:heavy_multiplication_x: | :heavy_multiplication_x: |
   
 
@@ -230,6 +229,7 @@
 | 날짜 | 문제 | GonoBae | Sandor |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
 |2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-2839_SugarDelivery.cpp) |
+|2023.03.28| [1로 만들기](https://www.acmicpc.net/problem/1463) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2023-03-28-MakingOne.cpp) | :heavy_multiplication_x: |[:question:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Grid/2023-03-29-Gird-MakeOne.cpp) | :heavy_multiplication_x: |
 
 </div>
 </details>
