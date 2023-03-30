@@ -216,7 +216,7 @@
 |2023.03.21| [회의실 배정](https://www.acmicpc.net/problem/1931) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-21-MeetingRoom.cpp) | [:heavy_multiplication_x:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-21-MeetingRoom.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.03.23| [거스름돈](https://www.acmicpc.net/problem/5585) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-Coin.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-Coin.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.03.23| [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-GameDongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-GameDongJun.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.03.30| [주식](https://www.acmicpc.net/problem/11501) | :heavy_multiplication_x: | :heavy_multiplication_x: |:heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.03.30| [주식](https://www.acmicpc.net/problem/11501) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-04-01-Stock.cpp) | :heavy_multiplication_x: |:heavy_multiplication_x: | :heavy_multiplication_x: |
   
 
 ## **그래프 탐색**
