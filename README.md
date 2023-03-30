@@ -221,8 +221,8 @@
 
 ## **그래프 탐색**
 
-| 날짜 | 문제 | GonoBae | Sandor |
-| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: |
+| 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
+| :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: | :--------------------------: |
 |2022.10.17| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) |
 
 ## **다이나믹 프로그래밍**
