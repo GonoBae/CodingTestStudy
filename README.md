@@ -218,6 +218,7 @@
 |2023.03.23| [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-03-23-GameDongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-23-GameDongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Greedy/2023-04-02-DongJun.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/HitDa2/Greedy/230325_dongjun.cpp) |
 |2023.03.30| [주식](https://www.acmicpc.net/problem/11501) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-04-01-Stock.cpp) | [:question:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-03-30-Stock.cpp) |:heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.04.02| [단어 수학](https://www.acmicpc.net/problem/1339) | [:pencil:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/Greedy/2023-04-03-WordMath.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-02-WordMath.cpp) |:heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.04| [저울](https://www.acmicpc.net/problem/2437) | :heavy_multiplication_x: | :heavy_multiplication_x: |:heavy_multiplication_x: | :heavy_multiplication_x: |
   
 
 ## **그래프 탐색**
