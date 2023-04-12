@@ -226,7 +226,7 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: | :--------------------------: |
-|2022.10.17| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2022-10-17-1260_BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.11| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2022-10-17-1260_BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
