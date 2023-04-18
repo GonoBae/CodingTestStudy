@@ -26,18 +26,18 @@ int main()
 	int n, m;
 	cin >> n >> m;
 
-	// °£¼± ¿¬°á
+	// ê°„ì„  ì—°ê²°
 	for (int i = 0; i < m; ++i)
 	{
 		int u,v;
 		cin >> u >> v;
 
-		// ¾ç¹æÇâ ¿¬°á
+		// ì–‘ë°©í–¥ ì—°ê²°
 		graph[u].push_back(v);
 		graph[v].push_back(u);
 	}
 
-	// n¸¸Å­ dfs ½ÇÇà
+	// në§Œí¼ dfs ì‹¤í–‰
 	for (int i = 1; i <= n; ++i)
 	{
 		if (!visited[i])

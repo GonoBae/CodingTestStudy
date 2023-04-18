@@ -30,7 +30,7 @@ int main()
 	int links;
 	cin >> links;
 
-	// ¿¬°á
+	// ì—°ê²°
 	for (int i = 0; i < links; ++i)
 	{
 		int comp1, comp2;
