@@ -79,4 +79,4 @@ int main()
 	cout << *max_element(safetyArea.begin(), safetyArea.end());
 
 	return 0;
-}
+}ㅇ
