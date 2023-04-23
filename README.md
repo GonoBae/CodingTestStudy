@@ -13,8 +13,8 @@
 
 
 ## **규칙**
-- 매일 `한 문제 이상` 풀기 (일요일 제외)
-- 수요일 + 일요일 코드리뷰
+- 매주 `3문제 이상` 풀기 (화/목/토)
+- 문제 푼 다음날 코드리뷰 (수/금/월)
 - 푼 문제
   - README 표에 :heavy_check_mark: 표시 하고 이모지에 `본인 풀이 링크 달 것.`
 - 못 푼 문제
@@ -226,9 +226,12 @@
 
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: | :--------------------------: |
-|2023.04.11| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2022-10-17-1260_BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-12-DFS%2CBFS.cpp) | :heavy_multiplication_x: |
-|2023.04.13| [바이러스](https://www.acmicpc.net/problem/2606) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-13-2606_Virus.cpp) | :heavy_multiplication_x: |[:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-14-Virus.cpp) | :heavy_multiplication_x: |
-|2023.04.15| [연결요소의 개수](https://www.acmicpc.net/problem/11724) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-15-11724_Link.cpp) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-16-ConnectedComponent.cpp) | :heavy_multiplication_x: |
+|2023.04.11| [BFS 와 DFS](https://www.acmicpc.net/problem/1260) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2022-10-17-1260_BFS_DFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-17-1260_DFSAndBFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-12-DFS%2CBFS.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/HitDa2/GraphSearch/230411_BFS_DFS.cpp) |
+|2023.04.13| [바이러스](https://www.acmicpc.net/problem/2606) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-13-2606_Virus.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-13-2606_Virus.cpp) |[:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-14-Virus.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/HitDa2/GraphSearch/230413_Virus.cpp) |
+|2023.04.15| [연결요소의 개수](https://www.acmicpc.net/problem/11724) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-15-11724_Link.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-15-11724_Link.cpp)  | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/GraphSearch/2023-04-16-ConnectedComponent.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/HitDa2/GraphSearch/230415_ConnectedComponent.cpp) |
+|2023.04.18| [섬의 개수](https://www.acmicpc.net/problem/4963) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-18-4963_Island.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-18-4963_Island.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.20| [안전영역](https://www.acmicpc.net/problem/2468) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-20-2468_SafeArea.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-20-2468_SafeArea.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.22| [그림](https://www.acmicpc.net/problem/1926) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-22-1926_Picture.cpp) | [반례좀](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-22-1926_Picture.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
