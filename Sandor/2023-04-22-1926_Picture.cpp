@@ -7,10 +7,11 @@ int paper[501][501];
 int dx[4] = { -1, 0, 1, 0 };
 int dy[4] = { 0, -1, 0, 1 };
 
-int dfs(int _x, int _y, int _size)
+void dfs(int _x, int _y, int& _size)
 {
 	paper[_y][_x] = 0;
-	
+	++_size;
+
 	for (int i = 0; i < 4; ++i)
 	{
 		int nextX = _x + dx[i];
@@ -20,12 +21,10 @@ int dfs(int _x, int _y, int _size)
 		{
 			if (paper[nextY][nextX])
 			{
-				return dfs(nextX, nextY, _size+1);
+				dfs(nextX, nextY, _size);
 			}
 		}
 	}
-
-	return _size;
 }
 
 int main()
@@ -42,7 +41,7 @@ int main()
 		}
 	}
 
-	// 도화지 입력
+	// dfs 탐색
 	int paperCnt = 0;
 	int maxSize = 0;
 	for (int row = 0; row < n; ++row)
@@ -52,10 +51,12 @@ int main()
 			if (paper[row][column])
 			{
 				++paperCnt;
-				int current = dfs(column, row, 1);
-				if (current > maxSize)
+				int currentSize = 0;
+				dfs(column, row, currentSize);
+
+				if (currentSize > maxSize)
 				{
-					maxSize = current;
+					maxSize = currentSize;
 				}
 			}
 		}
