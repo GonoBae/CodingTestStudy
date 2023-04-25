@@ -6,6 +6,7 @@ using namespace std;
 int n, m;
 int a1, b1, a2, b2;
 bool visited[MAX][MAX];
+int visited1[MAX][MAX];
 // 나이트의 이동
 int dx[8] = {-2, -2, -1, -1, 1, 1, 2, 2};
 int dy[8] = {-1, 1, -2, 2, -2, 2, -1, 1};
@@ -14,11 +15,11 @@ int dy[8] = {-1, 1, -2, 2, -2, 2, -1, 1};
 void reset(int _m) {
     for(int i = 0; i < _m; ++i) {
         for(int j = 0; j < _m; ++j) {
-            visited[i][j] = 0;
+            visited1[i][j] = 0;
         }
     }
 }
-
+// First Solve => memory : 2108KB
 int bfs(int x, int y, int s) {
     queue<pair<pair<int, int>, int>> Q;
     visited[x][y] = true;
@@ -40,6 +41,29 @@ int bfs(int x, int y, int s) {
     }
     return 0;
 }
+// Second Solve => memory : 2376KB
+int bfs1(int x, int y, int s) {
+    queue<pair<int, int>> Q;
+    visited1[x][y] = s;
+    Q.push( (make_pair(x, y)) );
+    while(!Q.empty()) {
+        x = Q.front().first;
+        y = Q.front().second;
+        s = visited1[x][y];
+        if(x == a2 && y == b2) return s;
+        Q.pop();
+        for(int i = 0; i < 8; ++i) {
+            int nx = x + dx[i];
+            int ny = y + dy[i];
+            if(nx < 0 || ny < 0 || nx >= m || ny >= m) continue;
+            if(visited1[nx][ny]) continue;
+            visited1[nx][ny] = s + 1;
+            Q.push( (make_pair(nx, ny)) );
+        }
+    }
+    return 0;
+}
+
 int main() {
     cin >> n;
     while(n--) {
@@ -50,7 +74,7 @@ int main() {
         cin >> a1 >> b1;
         cin >> a2 >> b2;
         
-        cout << bfs(a1, b1, 0) << endl;
+        cout << bfs1(a1, b1, 0) << endl;
     }
     return 0;
 }
