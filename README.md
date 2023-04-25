@@ -232,7 +232,7 @@
 |2023.04.18| [섬의 개수](https://www.acmicpc.net/problem/4963) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-18-4963_Island.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-18-4963_Island.cpp) | :heavy_multiplication_x: | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/HitDa2/GraphSearch/230418_Island.cpp) |
 |2023.04.20| [안전영역](https://www.acmicpc.net/problem/2468) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-20-2468_SafeArea.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-20-2468_SafeArea.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.04.22| [그림](https://www.acmicpc.net/problem/1926) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-22-1926_Picture.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-22-1926_Picture.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.04.25| [나이트의 이동](https://www.acmicpc.net/problem/7562) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.25| [나이트의 이동](https://www.acmicpc.net/problem/7562) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-25-7562_NightMoving.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
