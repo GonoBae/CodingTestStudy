@@ -19,7 +19,6 @@ void reset(int _m) {
     }
 }
 
-// bfs memory : 4228
 int bfs(int x, int y, int s) {
     queue<pair<pair<int, int>, int>> Q;
     visited[x][y] = true;
