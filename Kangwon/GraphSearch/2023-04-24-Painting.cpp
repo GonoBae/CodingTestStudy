@@ -1,53 +1,59 @@
-#include<iostream>
-#include <queue>
+#include <iostream>
 #include <vector>
 
-void BFS(const std::vector<std::vector<bool>>& array, std::vector<bool>& chk, int start);
+void BFS(std::vector<std::vector<bool>>& array, int col, int row);
+int cnt = 0;
 
 int main() {
-    int point, cnt;
+	int row, col;
+	std::cin >> col >> row;
+	std::vector<std::vector<bool>> array(col, std::vector<bool>(row, false));
 
-    std::cin >> point >> cnt;
+	for (int i = 0; i < col; i++) {
+		for (int j = 0; j < row; j++) {
+			int chk;
+			std::cin >> chk;
+			array[i][j] = chk;
+		}
+	}
 
-    std::vector<std::vector<bool>> array(point, std::vector<bool>(point, false));
+	int max = 0, result = 0;
+	for (int i = 0; i < col; i++) {
+		for (int j = 0; j < row; j++) {
+			BFS(array, i, j);
+			if (cnt > 0) {
+				if (max < cnt) {
+					max = cnt;
+				}
+				result++;
+				cnt = 0;
+			}
+		}
+	}
 
-    for (int i = 0; i < cnt; i++) {
-        int a, b;
-        std::cin >> a >> b;
-        array[a - 1][b - 1] = true;
-        array[b - 1][a - 1] = true;
-    }
+	std::cout << result << std::endl;
+	std::cout << max << std::endl;
 
-    std::vector<bool> chk(point, false);
-    int result=0;
-    for(int i =0;i<point;i++){
-        if(!chk[i]){
-            BFS(array, chk, i);
-            result++;
-        }
-    }
-    std::cout<<result;
-
-    return 0;
+	return 0;
 }
 
-void BFS(const std::vector<std::vector<bool>>& array, std::vector<bool>& chk, int start) {
-    chk[start] = true;
-    
-    std::queue<int> q;
-    q.push(start);
+void BFS(std::vector<std::vector<bool>>& array, int col, int row) {
+	
+	if (array[col][row]) {
+		array[col][row] = false;
+		cnt++;
 
-    while (!q.empty())
-    {
-        for (int i = 0; i < array[start].size(); i++) {
-            if (array[q.front()][i] == true && chk[i] == false) {
-                q.push(i);
-                chk[i] = true;
-            }
-        }
-
-        q.pop();
-        if(!q.empty())
-            start=q.front();
-    }
+		if (array.size() > col + 1) {
+			BFS(array, col + 1, row);
+		}
+		if (array[0].size() > row + 1) {
+			BFS(array, col, row + 1);
+		}
+		if (0 < col - 1) {
+			BFS(array, col - 1, row);
+		}
+		if (0 < row - 1) {
+			BFS(array, col, row - 1);
+		}
+	}
 }
