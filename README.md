@@ -233,7 +233,7 @@
 |2023.04.20| [안전영역](https://www.acmicpc.net/problem/2468) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-20-2468_SafeArea.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-20-2468_SafeArea.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.04.22| [그림](https://www.acmicpc.net/problem/1926) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-22-1926_Picture.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-22-1926_Picture.cpp) | [:question:]() | :heavy_multiplication_x: |
 |2023.04.25| [나이트의 이동](https://www.acmicpc.net/problem/7562) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-25-7562_NightMoving.cpp) | [ㅂㄷㅂㄷ](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-25-7562_NightMoving.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
-|2023.04.27| [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-28-1325_Hacking.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.04.27| [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-04-28-1325_Hacking.cpp) | [메/시 초과](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-04-28-1325_Hacking.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
