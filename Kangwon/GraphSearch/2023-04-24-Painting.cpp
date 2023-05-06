@@ -1,16 +1,18 @@
 #include <iostream>
 #include <vector>
 
-void DFS(std::vector<std::vector<bool>>& array, int col, int row);
-int cnt = 0;
+void DFS(std::vector<std::vector<bool>>& array, int col, int row, int& cnt);
 
-int main() {
+int main()
+{
 	int row, col;
 	std::cin >> col >> row;
 	std::vector<std::vector<bool>> array(col, std::vector<bool>(row, false));
 
-	for (int i = 0; i < col; i++) {
-		for (int j = 0; j < row; j++) {
+	for (int i = 0; i < col; i++)
+	{
+		for (int j = 0; j < row; j++)
+		{
 			int chk;
 			std::cin >> chk;
 			array[i][j] = chk;
@@ -18,15 +20,19 @@ int main() {
 	}
 
 	int max = 0, result = 0;
-	for (int i = 0; i < col; i++) {
-		for (int j = 0; j < row; j++) {
-			DFS(array, i, j);
-			if (cnt > 0) {
-				if (max < cnt) {
+	for (int i = 0; i < col; i++)
+	{
+		for (int j = 0; j < row; j++)
+		{
+			int cnt = 0;
+			DFS(array, i, j, cnt);
+			if (cnt > 0)
+			{
+				if (max < cnt)
+				{
 					max = cnt;
 				}
 				result++;
-				cnt = 0;
 			}
 		}
 	}
@@ -37,23 +43,29 @@ int main() {
 	return 0;
 }
 
-void DFS(std::vector<std::vector<bool>>& array, int col, int row) {
-	
-	if (array[col][row]) {
+void DFS(std::vector<std::vector<bool>>& array, int col, int row, int& cnt)
+{
+
+	if (array[col][row])
+	{
 		array[col][row] = false;
 		cnt++;
 
-		if (array.size() > col + 1) {
-			DFS(array, col + 1, row);
+		if (array.size() > col + 1)
+		{
+			DFS(array, col + 1, row, cnt);
 		}
-		if (array[0].size() > row + 1) {
-			DFS(array, col, row + 1);
+		if (array[0].size() > row + 1)
+		{
+			DFS(array, col, row + 1, cnt);
 		}
-		if (0 < col - 1) {
-			DFS(array, col - 1, row);
+		if (0 <= col - 1)
+		{
+			DFS(array, col - 1, row, cnt);
 		}
-		if (0 < row - 1) {
-			DFS(array, col, row - 1);
+		if (0 <= row - 1)
+		{
+			DFS(array, col, row - 1, cnt);
 		}
 	}
 }
