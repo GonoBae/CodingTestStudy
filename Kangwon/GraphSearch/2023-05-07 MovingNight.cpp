@@ -1,83 +1,198 @@
 #include <iostream>
 #include <vector>
+#include <queue>
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y);
 
-void DFS(std::vector<std::vector<bool>>& array, int col, int row);
+const std::vector<std::pair<int, int>> table{
+	std::make_pair(1, 2),
+	std::make_pair(2, 1),
+	std::make_pair(2, -1),
+	std::make_pair(1, -2),
+	std::make_pair(-1, -2),
+	std::make_pair(-2, -1),
+	std::make_pair(-2, 1),
+	std::make_pair(-1, 2) };
 
 int main()
 {
-	int point;
-	std::cin >> point;
+	int num;
+	std::cin >> num;
 
-	std::vector<std::vector<int>> array(point, std::vector<int>(point, 0));
-
-	int max = 0;
-	for (int i = 0; i < point; i++)
+	for (int i = 0; i < num; i++)
 	{
-		for (int j = 0; j < point; j++)
-		{
-			int chk;
-			std::cin >> chk;
-			if (max < chk)
-				max = chk;
-			array[i][j] = chk;
-		}
+		int len;
+		std::cin >> len;
+		std::vector<std::vector<bool>> vec(len, std::vector<bool>(len, false));
+		int start_x, start_y, end_x, end_y;
+		std::cin >> start_x >> start_y >> end_x >> end_y;
+
+		std::cout << BFS(vec, start_x, start_y, end_x, end_y)<<std::endl;
 	}
-	int result_max = 0;
-	for (int k = 0; k <= max; k++)
+}
+
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y)
+{
+	vec[start_x][start_y] = true;
+
+	std::queue<std::pair<int, int>> que;
+	std::queue<int> que_num;
+	que.push(std::make_pair(start_x, start_y));
+	que_num.push(0);
+
+	while (!que.empty())
 	{
-		std::vector<std::vector<bool>> array_chk(point, std::vector<bool>(point, false));
-		for (int i = 0; i < point; i++)
+		if (que.front().first == end_x && que.front().second == end_y)
+			return que_num.front();
+
+		for (auto pair : table)
 		{
-			for (int j = 0; j < point; j++)
+			if (!(vec.size() <= que.front().first + pair.first || 0 > que.front().first + pair.first ||
+				vec.size() <= que.front().second + pair.second || 0 > que.front().second + pair.second))
 			{
-				if (array[i][j] > k) {
-					array_chk[i][j] = true;
+				if (!vec[que.front().first + pair.first][que.front().second + pair.second])
+				{
+					vec[que.front().first + pair.first][que.front().second + pair.second] = true;
+					que.push(std::make_pair(que.front().first + pair.first, que.front().second + pair.second));
+					que_num.push(que_num.front() + 1);
 				}
 			}
 		}
 
-		int result = 0;
-		for (int i = 0; i < point; i++)
-		{
-			for (int j = 0; j < point; j++)
-			{
-				if (array_chk[i][j]) {
-					DFS(array_chk, i, j);
-					result++;
-				}
-			}
-		}
-		if (result_max < result)
-			result_max = result;
-
+		que.pop();
+		que_num.pop();
 	}
-
-	std::cout << result_max;
 
 	return 0;
 }
+#include <iostream>
+#include <vector>
+#include <queue>
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y);
 
-void DFS(std::vector<std::vector<bool>>& array, int col, int row)
+const std::vector<std::pair<int, int>> table{
+	std::make_pair(1, 2),
+	std::make_pair(2, 1),
+	std::make_pair(2, -1),
+	std::make_pair(1, -2),
+	std::make_pair(-1, -2),
+	std::make_pair(-2, -1),
+	std::make_pair(-2, 1),
+	std::make_pair(-1, 2) };
+
+int main()
 {
+	int num;
+	std::cin >> num;
 
-	if (array[col][row])
+	for (int i = 0; i < num; i++)
 	{
-		array[col][row] = false;
-		if (array.size() > col + 1)
-		{
-			DFS(array, col + 1, row);
-		}
-		if (array[0].size() > row + 1)
-		{
-			DFS(array, col, row + 1);
-		}
-		if (0 <= col - 1)
-		{
-			DFS(array, col - 1, row);
-		}
-		if (0 <= row - 1)
-		{
-			DFS(array, col, row - 1);
-		}
+		int len;
+		std::cin >> len;
+		std::vector<std::vector<bool>> vec(len, std::vector<bool>(len, false));
+		int start_x, start_y, end_x, end_y;
+		std::cin >> start_x >> start_y >> end_x >> end_y;
+
+		std::cout << BFS(vec, start_x, start_y, end_x, end_y)<<std::endl;
 	}
+}
+
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y)
+{
+	vec[start_x][start_y] = true;
+
+	std::queue<std::pair<int, int>> que;
+	std::queue<int> que_num;
+	que.push(std::make_pair(start_x, start_y));
+	que_num.push(0);
+
+	while (!que.empty())
+	{
+		if (que.front().first == end_x && que.front().second == end_y)
+			return que_num.front();
+
+		for (auto pair : table)
+		{
+			if (!(vec.size() <= que.front().first + pair.first || 0 > que.front().first + pair.first ||
+				vec.size() <= que.front().second + pair.second || 0 > que.front().second + pair.second))
+			{
+				if (!vec[que.front().first + pair.first][que.front().second + pair.second])
+				{
+					vec[que.front().first + pair.first][que.front().second + pair.second] = true;
+					que.push(std::make_pair(que.front().first + pair.first, que.front().second + pair.second));
+					que_num.push(que_num.front() + 1);
+				}
+			}
+		}
+
+		que.pop();
+		que_num.pop();
+	}
+
+	return 0;
+}
+#include <iostream>
+#include <vector>
+#include <queue>
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y);
+
+const std::vector<std::pair<int, int>> table{
+	std::make_pair(1, 2),
+	std::make_pair(2, 1),
+	std::make_pair(2, -1),
+	std::make_pair(1, -2),
+	std::make_pair(-1, -2),
+	std::make_pair(-2, -1),
+	std::make_pair(-2, 1),
+	std::make_pair(-1, 2) };
+
+int main()
+{
+	int num;
+	std::cin >> num;
+
+	for (int i = 0; i < num; i++)
+	{
+		int len;
+		std::cin >> len;
+		std::vector<std::vector<bool>> vec(len, std::vector<bool>(len, false));
+		int start_x, start_y, end_x, end_y;
+		std::cin >> start_x >> start_y >> end_x >> end_y;
+
+		std::cout << BFS(vec, start_x, start_y, end_x, end_y)<<std::endl;
+	}
+}
+
+int BFS(std::vector<std::vector<bool>>& vec, int start_x, int start_y, int end_x, int end_y)
+{
+	vec[start_x][start_y] = true;
+
+	std::queue<std::pair<int, int>> que;
+	std::queue<int> que_num;
+	que.push(std::make_pair(start_x, start_y));
+	que_num.push(0);
+
+	while (!que.empty())
+	{
+		if (que.front().first == end_x && que.front().second == end_y)
+			return que_num.front();
+
+		for (auto pair : table)
+		{
+			if (!(vec.size() <= que.front().first + pair.first || 0 > que.front().first + pair.first ||
+				vec.size() <= que.front().second + pair.second || 0 > que.front().second + pair.second))
+			{
+				if (!vec[que.front().first + pair.first][que.front().second + pair.second])
+				{
+					vec[que.front().first + pair.first][que.front().second + pair.second] = true;
+					que.push(std::make_pair(que.front().first + pair.first, que.front().second + pair.second));
+					que_num.push(que_num.front() + 1);
+				}
+			}
+		}
+
+		que.pop();
+		que_num.pop();
+	}
+
+	return 0;
 }
