@@ -237,6 +237,8 @@
 |2023.05.17| [영역 구하기](https://www.acmicpc.net/problem/2583) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-05-24-2583_Area.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-05-17-2583_Area.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.05.24| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | :heavy_multiplication_x: | [메/시 초과](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-05-24-1916_MinCost.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.05.27| [보물섬](https://www.acmicpc.net/problem/2589) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/GraphSearch/2023-05-27-2589_Island.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2023-05-27-2589_Island.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.05.30| [토마토](https://www.acmicpc.net/problem/7576) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+|2023.06.01| [연구소](https://www.acmicpc.net/problem/14502) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 ## **다이나믹 프로그래밍**
 | 날짜 | 문제 | GonoBae | Sandor | kangwonkim | hitda2 |
