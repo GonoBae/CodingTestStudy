@@ -245,6 +245,7 @@
 | :--------------------------------------- | :--------------------------------------- | :---------------------------: | :--------------------------: | :--------------------------: | :--------------------------: |
 |2022.10.18| [설탕 배달](https://www.acmicpc.net/problem/2839) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2022-10-18-2839_SugarDelivery.cpp) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/Sandor/2022-10-18-2839_SugarDelivery.cpp) | :heavy_multiplication_x: | :heavy_multiplication_x: |
 |2023.03.28| [1로 만들기](https://www.acmicpc.net/problem/1463) | [:heavy_check_mark:](https://github.com/GonoBae/CodingTestStudy/blob/main/GonoBae/DynamicProgramming/2023-03-28-MakingOne.cpp) | :heavy_multiplication_x: |[:question:](https://github.com/GonoBae/CodingTestStudy/blob/main/Kangwon/Greedy/2023-03-29-MakeOne.cpp) | :heavy_multiplication_x: |
+|2023.06.07| [2xn 타일링](https://www.acmicpc.net/problem/11726) | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
 
 </div>
 </details>
